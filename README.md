@@ -43,3 +43,15 @@ o Each element holds a character (space, *, |, -) to draw the graph.
 5. String
  Purpose: Used to store mathematical expressions and to parse characters.  Implementation:
 o std::string is used for input expressions and intermediate steps (e.g., infix and postfix expressions)
+
+RESULT:
+Example 1-
+![image](https://github.com/user-attachments/assets/cc4b23ee-8c88-49e2-822c-227663ce3304)
+![image](https://github.com/user-attachments/assets/f808ec88-2600-465c-8fb9-941cee8211ff)
+
+Example 2-
+![image](https://github.com/user-attachments/assets/33d790cb-8415-4a77-b418-1e575a26c213)
+![image](https://github.com/user-attachments/assets/802fcf11-32de-4d2f-972b-fde9f2461b3b)
+
+
+
